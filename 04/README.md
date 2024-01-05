@@ -18,13 +18,13 @@ Uma linha de produção de computadores precisa implementar uma nova funcionalid
 O resultado para o exemplo acima será:
 
 ```javascript
-;[
-    "321-2022-001",
-    "321-2022-002",
-    "321-2022-003",
-    "321-2022-004",
-    "321-2022-005",
-]
+[
+  "321-2022-001",
+  "321-2022-002",
+  "321-2022-003",
+  "321-2022-004",
+  "321-2022-005",
+];
 ```
 
 Obs.:
@@ -41,9 +41,9 @@ Faça commit do resultado.
 
 Preencha a checklist para finalizar o exercício:
 
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
+- [x] Resolver o exercício revendo a aula se necessário
+- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [x] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
 
 ###### tags: `backend` `typescript` `exercicio` `nodeJS` `JavaScript`
